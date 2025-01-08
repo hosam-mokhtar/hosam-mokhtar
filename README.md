@@ -4,7 +4,7 @@
 <p align="center">🌱 I’m currently learning Back-end (.Net) 🌱</p>
 <h3 align="center">📫 Contact me 📫</h3>
 <p align="center">
-    <a href="https://linkedin.com/in/hussam-mohamed" target="_blank">
+    <a href="https://linkedin.com/in/hossam--mohamed" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
     </a>
     <a href="hossam.mokhtar.fcis@gmail.com" target="_blank">
