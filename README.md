@@ -4,8 +4,11 @@
 <p align="left">🌱 I’m currently learning Back-end (.Net)</p>
 <h3 align="left">📫 Contact me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/hossam--mohamed" alt="LinkedIn" href="https://mail.google.com/mail/hossam.mokhtar.fcis@gmail.com" alt="Gmail" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin,gmail"/>
+    <a href="https://linkedin.com/in/hossam--mohamed" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>    
+    </a>
+    <a  href="https://mail.google.com/mail/hossam.mokhtar.fcis@gmail.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
     </a>
 </p>
 <h3 align="left">🛠️ Languages & Tools:</h3>
