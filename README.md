@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Hossam</h1>
+<h1 align="center">
+  Hi 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
+  , I'm Hossam  
+</h1>
 <h3 align="center">Back-end developer (.Net)</h3>
 <p align="center">
   <img src="assets/.gif" width="100">
