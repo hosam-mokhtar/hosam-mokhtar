@@ -1,12 +1,15 @@
-<h1 align="center">
+ <h1 align="center">
   Hi 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
+  <img src="assets/waving hand.gif" width="32" alt="Waving Hand">
   , I'm Hossam  
 </h1>
-<h3 align="center">Back-end developer (.Net)</h3>
+
+<h3 align="center">Junior Software Engineer | .NET Developer</h3>
+
 <p align="center">
-  <img src="assets/.gif" width="100">
+  <img src="assets/.gif" width="110" alt="Animated Logo">
 </p>
-<p align="center"> <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,git,github&perline=8"/> 
-   <a> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="45" height="45"/> 
-</a> </p>
+
+<p align="center"> 
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,sqlserver,git,html,css,bootstrap" alt="Tech Stack Icons"/>
+</p>
