@@ -13,8 +13,3 @@
 <p align="center"> 
   <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,sqlserver,git,html,css,bootstrap" alt="Tech Stack Icons"/>
 </p>
-
-<h4 align="center">📈 Profile Views</h4>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/hosam-mokhtar/count.svg" alt="Profile Views" />
-</p>
