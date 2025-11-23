@@ -11,5 +11,5 @@
 </p>
 
 <p align="center"> 
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,postman,swagger,sqlserver,git,html,css,bootstrap" alt="Tech Stack Icons"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,dapper,postman,swagger,sqlserver,git,html,css,bootstrap" alt="Tech Stack Icons"/>
 </p>
