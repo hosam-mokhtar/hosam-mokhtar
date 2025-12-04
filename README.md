@@ -13,3 +13,14 @@
 <p align="center"> 
   <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,dapper,redis,postman,swagger,sqlserver,git,html,css,bootstrap" alt="Tech Stack Icons"/>
 </p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="500">
+        <b>"شعور الإنسان بجهله ضرب من ضروب المعرفة"</b><br>
+        <b>--ابن خلدون--</b>
+      </td>
+    </tr>
+  </table>
+</div>
