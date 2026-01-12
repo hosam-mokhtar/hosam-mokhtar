@@ -7,7 +7,7 @@
 <h3 align="center">Junior Software Engineer | .NET Developer</h3>
 
 <p align="center">
-  <img src="assets/.gif" width="110" alt="Animated Logo">
+  <img src="assets/coding.gif" width="300" alt="Animated Logo">
 </p>
 
 <p align="center"> 
