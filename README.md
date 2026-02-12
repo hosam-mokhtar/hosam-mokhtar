@@ -4,7 +4,7 @@
   , I'm Hossam  
 </h1>
 
-<h3 align="center">Junior Software Engineer | .NET Developer</h3>
+<h3 align="center">Junior Software Engineer | Backend Developer (.NET)</h3>
 
 <p align="center">
   <img src="assets/coding.gif" width="300" alt="Animated Logo">
