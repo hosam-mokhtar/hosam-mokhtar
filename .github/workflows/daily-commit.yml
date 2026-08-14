@@ -1,0 +1,31 @@
+name: Daily Commit
+
+on:
+  schedule:
+    - cron: '0 21 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  daily-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update activity
+        run: |
+          set -euo pipefail
+
+          mkdir -p .github
+          date -u +"%Y-%m-%d" > .github/activity
+
+          git config user.name "hosam-mokhtar"
+          git config user.email "hossammokhtar.fcis@gmail.com"
+
+          git add .github/activity
+          git commit -m "chore: daily activity - $(date -u +%Y-%m-%d)"
+          git push
